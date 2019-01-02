@@ -1,0 +1,18 @@
+{
+    "name": "ggatsby/game",
+    "authors": [
+        {
+            "name": "Alex Podybailo",
+            "email": "ninjootsu@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "fzaninotto/faker": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
