@@ -1,2 +1,2 @@
-# turn-based-rpg
+# Turn-based rpg
 Boilerplate for turn-based game.
